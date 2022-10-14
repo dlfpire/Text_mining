@@ -10,7 +10,7 @@
 
 ## ⭐코드⭐
     < 야마다 박사님의 코드를 참고하였습니다 >
-![Image]()
+![Image](screenshot.png)
 ![Image](webScreen.png)
     
     x = []
