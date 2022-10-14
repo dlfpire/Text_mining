@@ -181,6 +181,6 @@ lda_model = gensim.models.ldamodel.LdaModel(corpus=corpus,
                                             passes=10,
                                             alpha='auto',
                                             per_word_topics=True)
-
+                                            
 for topic_topwords in lda_model.print_topics():
     print(topic_topwords)
