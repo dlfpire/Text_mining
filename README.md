@@ -1,5 +1,4 @@
 # 2022-Ecole-practice - Web Crawling
-> https://dlfpire.github.io/Ecole/HTML/
 
 1014-1015
 
@@ -11,7 +10,8 @@
 
 ## ⭐코드⭐
     < 야마다 박사님의 코드를 참고하였습니다 >
-    
+    ![image](https://user-images.githubusercontent.com/59990695/195943216-c5a2f48a-255e-41fe-b4e2-0f28a8fe111c.png)
+
     
 ### 참조
 - https://lucky516.tistory.com/52?category=1010534
