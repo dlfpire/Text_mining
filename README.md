@@ -1,4 +1,4 @@
-# 2022-Ecole-practice - <Web Crawling>
+# 2022-Ecole-practice - Web Crawling
 > https://dlfpire.github.io/Ecole/HTML/
 
 1014-1015
