@@ -10,8 +10,13 @@
 
 ## ⭐코드⭐
     < 야마다 박사님의 코드를 참고하였습니다 >
-    ![image](https://user-images.githubusercontent.com/59990695/195943216-c5a2f48a-255e-41fe-b4e2-0f28a8fe111c.png)
-
+    ![image](webScreen.png)
+    
+    x = []
+    x.append(cleaned_tweet_str)
+    for topic_topwords in lda_model.print_topics():
+        x.append(topic_topwords)
+    return HttpResponse(x)
     
 ### 참조
 - https://lucky516.tistory.com/52?category=1010534
